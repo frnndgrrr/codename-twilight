@@ -1,0 +1,19 @@
+{
+  "name": "codename-twilight",
+  "version": "1.0.0",
+  "description": "JavaScript Notes",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./$FOLDER/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frnndgrrr/codename-twilight.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frnndgrrr/codename-twilight/issues"
+  },
+  "homepage": "https://github.com/frnndgrrr/codename-twilight#readme"
+}
